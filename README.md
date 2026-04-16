@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&height=60&lines=Hey+there%2C+I'm+Keshav+%F0%9F%91%8B;Full-Stack+%26+Mobile+Engineer+%F0%9F%9A%80;Building+systems+that+scale+%E2%9A%A1;2M%2B+users+%7C+99.9%25+uptime+%F0%9F%9B%A1%EF%B8%8F;72%25+latency+crushed+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&height=60&lines=Keshav+Mishra+%F0%9F%91%8B;Senior+Software+Engineer+%7C+SDE-2;Architecting+scalable+systems+%E2%9A%A1;2M%2B+users+%7C+99.9%25+uptime+%F0%9F%9B%A1%EF%B8%8F;Performance+%26+Scale+Expert+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,61 +19,87 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 ```typescript
 const keshav = {
-  role        : "SDE-2 · Full-Stack & Mobile Engineer",
+  role        : "Senior Software Engineer (SDE-2)",
+  company     : "Redcliffe Life Diagnostics",
   location    : "Noida, India 🇮🇳",
-  experience  : "4+ Years in production",
-  currentWork : "Redcliffe Life Diagnostics",
+  experience  : "4+ Years building production systems at scale",
   
-  impact: {
-    usersServed     : "2,000,000+",
-    latencyReduced  : "72%  (~5s → ~300ms)",
-    uptime          : "99.9%",
-    apisOptimized   : "100+ endpoints",
-    concurrentUsers : "1500+ (WebSocket/WebRTC)",
-    ordersPerDay    : "6,000+ (Order Management System)",
+  expertise: {
+    architecture    : "Full-stack system design & optimization",
+    backend         : "High-performance APIs, real-time systems, microservices",
+    frontend        : "Scalable React/Next.js architectures serving millions",
+    mobile          : "Cross-platform React Native applications",
+    aiIntegration   : "LLM-powered features, RAG pipelines, agentic workflows",
   },
 
-  specializes        : ["Backend-Leaning Architecture", "Real-Time Systems", "AI-Integrated Products"],
-  currentlyExploring : ["RAG Pipelines", "Agentic AI Patterns", "System Design at Scale"],
-  funFact            : "The compiler doesn't scare me. Deadlines do. 💀"
+  productionImpact: {
+    usersServed       : "2,000,000+ active users",
+    performanceGain   : "72% latency reduction (5s → 300ms)",
+    systemReliability : "99.9% uptime maintained",
+    apisArchitected   : "100+ optimized endpoints",
+    realtimeScale     : "1500+ concurrent WebSocket/WebRTC connections",
+    orderVolume       : "6,000+ orders/day processed",
+  },
+
+  leadership: {
+    mentorship      : "10+ engineers mentored across frontend & backend",
+    codeReviews     : "Established best practices & coding standards",
+    architectureOwnership : "Led technical decisions for critical systems",
+  },
+
+  currentFocus: [
+    "System Design & Scalability Patterns",
+    "RAG Pipelines & Agentic AI Architectures", 
+    "Performance Engineering & Optimization",
+    "Technical Leadership & Mentorship"
+  ],
+
+  philosophy: "Build systems that scale, code that lasts, and teams that grow. 🚀"
 };
 ```
 
 ---
 
-## ⚔️ War Stats
+## 💼 Professional Highlights
 
 <div align="center">
 
-|  | 🧠 Exp | 👥 Users | ⚡ Latency Cut | 🛡️ Uptime | 🔁 APIs | 👨‍💻 Mentored |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | **4+ yrs** | **2M+** | **72%** | **99.9%** | **100+** | **10+ devs** |
+| Domain | Achievement | Business Impact |
+|:---:|---|---|
+| ⚡ **Performance** | Reduced API latency by **72%** (5s → 300ms) | Improved user retention & conversion rates |
+| 🏗️ **Architecture** | Designed & scaled frontend to **2M+ users** | **99.9% uptime** maintained in production |
+| 🔄 **Real-Time** | Built WebSocket/WebRTC infrastructure | Supports **1500+ concurrent connections** |
+| 📦 **Systems** | Architected Order Management System | Handles **6K+ orders/day** with queue optimization |
+| 🤖 **AI/ML** | Integrated OpenAI GPT & custom RAG pipelines | Enhanced user experience with intelligent features |
+| 👥 **Leadership** | Mentored **10+ developers** | Improved team velocity & code quality |
+| 🚀 **DevOps** | Implemented CI/CD with Docker & Jenkins | Zero-downtime deployments & faster releases |
+| 📱 **Mobile** | Shipped cross-platform React Native apps | iOS & Android with push notifications |
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Expertise
 
 <div align="center">
 
-### Languages
+### Core Languages
 <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" />
 
-### Frontend
+### Frontend Engineering
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" />
 
-### Backend
+### Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,express&theme=dark" />
 
-### Database & Cache
+### Data Layer
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
 
-### DevOps & Cloud
+### Cloud & Infrastructure
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git&theme=dark" />
 
 ### Mobile & AI
@@ -86,22 +112,34 @@ const keshav = {
 
 ---
 
-## 🏆 Key Achievements
+## 🎯 Core Competencies
 
-<div align="center">
+```yaml
+System Design:
+  - Microservices architecture & API design
+  - Database optimization & query performance
+  - Caching strategies (Redis, in-memory)
+  - Real-time systems (WebSockets, WebRTC)
+  
+Performance Engineering:
+  - API response time optimization (72% improvement achieved)
+  - Frontend bundle optimization & lazy loading
+  - Database indexing & query optimization
+  - Load testing & bottleneck identification
 
-| 🚀 Achievement | 📊 Impact |
-|---|---|
-| ⚡ API Response Time Optimization | `~5s → ~300ms` across **100+ endpoints** (94% improvement) |
-| 👥 Frontend Architecture | Scaled to **2M+ users** with **99.9% uptime** |
-| 🔁 Real-Time Infrastructure | **1500+ concurrent users** via WebSockets/WebRTC |
-| 📦 Order Management System | **6K+ orders/day** with queue & courier dispatch |
-| 🤖 AI Integration | OpenAI GPT chatbot · Exploring **RAG & Agentic patterns** |
-| 👨‍💻 Team Leadership | Mentored **10+ developers** · Code reviews · Best practices |
-| 🚢 DevOps | CI/CD via Docker + Jenkins · **Zero-downtime deployments** |
-| 📱 Cross-Platform | React Native app for **iOS & Android** with push notifications |
+Technical Leadership:
+  - Code reviews & architecture decisions
+  - Mentoring junior/mid-level engineers
+  - Technical documentation & knowledge sharing
+  - Cross-functional collaboration with product & design
 
-</div>
+Modern Stack:
+  - TypeScript-first development
+  - React/Next.js for scalable frontends
+  - Node.js/NestJS for robust backends
+  - PostgreSQL, MongoDB, Redis for data
+  - AWS, Docker, Jenkins for infrastructure
+```
 
 ---
 
@@ -140,11 +178,11 @@ const keshav = {
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xKeshav)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshav0730@gmail.com)
 
@@ -153,5 +191,5 @@ const keshav = {
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+awesome+together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Open+to+interesting+opportunities+and+collaborations+%F0%9F%9A%80;Let's+build+scalable+systems+together!" />
 </div>
