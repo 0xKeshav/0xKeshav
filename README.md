@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&height=60&lines=Keshav+Mishra+%F0%9F%91%8B;Senior+Software+Engineer+%7C+SDE-2;Architecting+scalable+systems+%E2%9A%A1;2M%2B+users+%7C+99.9%25+uptime+%F0%9F%9B%A1%EF%B8%8F;Performance+%26+Scale+Expert+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&height=60&lines=Keshav+Mishra+%F0%9F%91%8B;Engineering+Manager;Leading+teams+%26+architecting+systems+%E2%9A%A1;2M%2B+users+%7C+99.9%25+uptime+%F0%9F%9B%A1%EF%B8%8F;Building+teams+that+deliver+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0xKeshav&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/0xKeshav?label=Followers&style=for-the-badge&color=6E40C9" />
-  <img src="https://img.shields.io/badge/SDE--2-Redcliffe%20Life%20Diagnostics-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engineering_Manager-Redcliffe%20Life%20Diagnostics-6E40C9?style=for-the-badge" />
 </div>
 
 ---
@@ -23,10 +23,10 @@
 
 ```typescript
 const keshav = {
-  role        : "Senior Software Engineer (SDE-2)",
+  role        : "Engineering Manager",
   company     : "Redcliffe Life Diagnostics",
   location    : "Noida, India 🇮🇳",
-  experience  : "4+ Years building production systems at scale",
+  experience  : "4+ Years leading teams & building production systems at scale",
   
   expertise: {
     architecture    : "Full-stack system design & optimization",
@@ -46,16 +46,18 @@ const keshav = {
   },
 
   leadership: {
-    mentorship      : "10+ engineers mentored across frontend & backend",
-    codeReviews     : "Established best practices & coding standards",
-    architectureOwnership : "Led technical decisions for critical systems",
+    teamManagement  : "Leading engineering team of 10+ developers",
+    hiring          : "Built & scaled engineering team through strategic hiring",
+    mentorship      : "Mentored engineers from junior to senior levels",
+    processOwnership: "Established engineering best practices & development workflows",
+    stakeholderMgmt : "Cross-functional collaboration with product, design & business",
   },
 
   currentFocus: [
-    "System Design & Scalability Patterns",
-    "RAG Pipelines & Agentic AI Architectures", 
-    "Performance Engineering & Optimization",
-    "Technical Leadership & Mentorship"
+    "Engineering Team Leadership & Growth",
+    "System Design & Scalability at Scale",
+    "AI/ML Integration & RAG Architectures", 
+    "Engineering Culture & Best Practices"
   ],
 
   philosophy: "Build systems that scale, code that lasts, and teams that grow. 🚀"
@@ -75,7 +77,7 @@ const keshav = {
 | 🔄 **Real-Time** | Built WebSocket/WebRTC infrastructure | Supports **1500+ concurrent connections** |
 | 📦 **Systems** | Architected Order Management System | Handles **6K+ orders/day** with queue optimization |
 | 🤖 **AI/ML** | Integrated OpenAI GPT & custom RAG pipelines | Enhanced user experience with intelligent features |
-| 👥 **Leadership** | Mentored **10+ developers** | Improved team velocity & code quality |
+| 👥 **Leadership** | Managing team of **10+ engineers** | Improved team velocity, code quality & delivery timelines |
 | 🚀 **DevOps** | Implemented CI/CD with Docker & Jenkins | Zero-downtime deployments & faster releases |
 | 📱 **Mobile** | Shipped cross-platform React Native apps | iOS & Android with push notifications |
 
@@ -115,30 +117,33 @@ const keshav = {
 ## 🎯 Core Competencies
 
 ```yaml
-System Design:
-  - Microservices architecture & API design
-  - Database optimization & query performance
-  - Caching strategies (Redis, in-memory)
-  - Real-time systems (WebSockets, WebRTC)
-  
-Performance Engineering:
-  - API response time optimization (72% improvement achieved)
-  - Frontend bundle optimization & lazy loading
-  - Database indexing & query optimization
-  - Load testing & bottleneck identification
+Engineering Management:
+  - Leading & scaling engineering teams (10+ developers)
+  - Sprint planning, roadmap prioritization & delivery
+  - Performance reviews, 1:1s & career development
+  - Hiring, onboarding & team culture building
+  - Stakeholder management & cross-functional collaboration
 
 Technical Leadership:
-  - Code reviews & architecture decisions
-  - Mentoring junior/mid-level engineers
-  - Technical documentation & knowledge sharing
-  - Cross-functional collaboration with product & design
+  - System architecture & design decisions
+  - Code reviews & engineering best practices
+  - Technical mentorship (junior to senior levels)
+  - Technology stack evaluation & adoption
+  - Technical debt management & refactoring strategies
+
+System Design & Architecture:
+  - Microservices architecture & API design
+  - Database optimization & query performance
+  - Real-time systems (WebSockets, WebRTC)
+  - Scalability patterns & performance engineering
+  - Cloud infrastructure (AWS, Docker, CI/CD)
 
 Modern Stack:
-  - TypeScript-first development
-  - React/Next.js for scalable frontends
-  - Node.js/NestJS for robust backends
-  - PostgreSQL, MongoDB, Redis for data
-  - AWS, Docker, Jenkins for infrastructure
+  - TypeScript, JavaScript, Python
+  - React/Next.js, Node.js/NestJS, GraphQL
+  - PostgreSQL, MongoDB, Redis
+  - AWS, Docker, Jenkins
+  - AI/ML: OpenAI GPT, RAG pipelines
 ```
 
 ---
