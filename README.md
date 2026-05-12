@@ -1,9 +1,6 @@
 # Keshav Mishra 
 
 > Building systems that scale, teams that deliver, and code that lasts.
-
-Currently at **[Redcliffe Life Diagnostics](https://redcliffelabs.com)** — leading a team of 10+ engineers across full-stack product development.
-
 ---
 
 ### 📦 What I've shipped
