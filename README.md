@@ -33,13 +33,6 @@ AI/ML       OpenAI GPT · RAG pipelines · LLM integration
 
 ---
 
-### 🚀 Featured Repos
-
-[![FastTrack-Cabs](https://github-readme-stats.vercel.app/api/pin/?username=0xKeshav&repo=FastTrack-Cabs&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/0xKeshav/FastTrack-Cabs)
-[![chatify](https://github-readme-stats.vercel.app/api/pin/?username=0xKeshav&repo=chatify&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/0xKeshav/chatify)
-
----
-
 ### 📬 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
