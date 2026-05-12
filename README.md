@@ -1,30 +1,47 @@
-# Keshav Mishra
+# Keshav Mishra — Engineering Manager
 
-Engineering Manager at [Redcliffe Life Diagnostics](https://redcliffelabs.com). I build systems that scale and teams that deliver.
+> Building systems that scale, teams that deliver, and code that lasts.
 
----
-
-**What I've shipped in production:**
-
-- Scaled a frontend to 2M+ active users with 99.9% uptime
-- Cut API latency from 5s → 300ms (72% reduction)
-- Architected an order management system processing 6K+ orders/day
-- Built real-time infrastructure handling 1500+ concurrent WebSocket/WebRTC connections
-- Integrated LLM + RAG pipelines into consumer-facing features
-- Leading an engineering team of 10+, from hiring to delivery
+Currently at **[Redcliffe Life Diagnostics](https://redcliffelabs.com)** — leading a team of 10+ engineers across full-stack product development.
 
 ---
 
-**Stack I work with:**
+### 📦 What I've shipped
 
-TypeScript · JavaScript · Python · React · Next.js · Node.js · NestJS · GraphQL  
-PostgreSQL · MongoDB · Redis · AWS · Docker · Jenkins · React Native · OpenAI
+| | |
+|---|---|
+| ⚡ **72% latency reduction** | 5s → 300ms on core APIs |
+| 👥 **2M+ active users** | Scaled frontend architecture, 99.9% uptime |
+| 📬 **6K+ orders/day** | Designed order management system with queue optimization |
+| 🔌 **1500+ concurrent connections** | WebSocket/WebRTC real-time infrastructure |
+| 🤖 **AI-powered features** | LLM + RAG pipelines integrated into production |
+| 🧑‍🤝‍🧑 **Team of 10+** | Hiring, mentorship, sprints, delivery |
 
 ---
 
-**Currently thinking about:**  
-System design at scale · AI/ML integration · Engineering culture · Team growth
+### 🛠 Stack
+
+```
+Languages   TypeScript · JavaScript · Python
+Frontend    React · Next.js · Redux · Tailwind
+Backend     Node.js · NestJS · Express · GraphQL
+Databases   PostgreSQL · MongoDB · Redis · MySQL
+Infra       AWS · Docker · Jenkins · CI/CD
+Mobile      React Native (iOS + Android)
+AI/ML       OpenAI GPT · RAG pipelines · LLM integration
+```
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/) · [GitHub](https://github.com/0xKeshav) · [keshav0730@gmail.com](mailto:keshav0730@gmail.com)
+### 🚀 Featured Repos
+
+[![FastTrack-Cabs](https://github-readme-stats.vercel.app/api/pin/?username=0xKeshav&repo=FastTrack-Cabs&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/0xKeshav/FastTrack-Cabs)
+[![chatify](https://github-readme-stats.vercel.app/api/pin/?username=0xKeshav&repo=chatify&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/0xKeshav/chatify)
+
+---
+
+### 📬 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xKeshav)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:keshav0730@gmail.com)
