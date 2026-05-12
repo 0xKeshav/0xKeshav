@@ -1,4 +1,4 @@
-# Keshav Mishra — Engineering Manager
+# Keshav Mishra 
 
 > Building systems that scale, teams that deliver, and code that lasts.
 
